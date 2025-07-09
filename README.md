@@ -116,7 +116,7 @@ transactions (
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/eXp-Commission-Manager.git
+git clone https://github.com/TannerCarter-eXp/eXp-Commission-Manager.git
 cd eXp-Commission-Manager
 ```
 
